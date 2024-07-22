@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DatabaseManager
+comment1.params=databaseUrl
+comment1.target=DatabaseManager(java.lang.String)
+comment2.params=passageiro
+comment2.target=void\ createPassageiro(Passageiro)
+comment3.params=cpf
+comment3.target=Passageiro\ getPassageiro(java.lang.String)
+comment4.params=passageiro
+comment4.target=void\ updatePassageiro(Passageiro)
+comment5.params=passageiro
+comment5.target=void\ deletePassageiro(Passageiro)
+comment6.params=
+comment6.target=void\ close()
+numComments=7
